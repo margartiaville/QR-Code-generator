@@ -1,6 +1,7 @@
 QR Code generator library
 =========================
 
+Fork from : https://github.com/nayuki/QR-Code-generator
 
 Introduction
 ------------
